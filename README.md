@@ -1,3 +1,3 @@
 # DesignChallenge
-Includes mainly UI related designs
-Practising my design skills
+Includes mainly UI related designs.
+I'm practising my design skills.
